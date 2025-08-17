@@ -1,6 +1,10 @@
-title: Minimal theme
+title: Dramatherapy Bay Limited
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Professional dramatherapy services in Cambridge, UK. Healing through creative expression.
+author: Lily Lau
+email: dramatherapyw@gmail.com
+phone: "+44 7517605713"
+location: Cambridge, UK
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
