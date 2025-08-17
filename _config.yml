@@ -8,3 +8,8 @@ location: Cambridge, UK
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+# Navigation menu
+header_pages:
+  - about.md
+  - services.md
+  - contact.md
