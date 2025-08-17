@@ -46,13 +46,8 @@ I'm passionate about community involvement and maintain an active lifestyle incl
 - Gardening
 - Learning British Sign Language
 
-**Fun fact:** I'm trilingual and fluent in English, Cantonese, and Mandarin, allowing me to serve diverse communities effectively.
-
+**Fun fact:** Lily is trilingual and fluent in English, Cantonese, and Mandarin, allowing me to serve diverse communities effectively.
+*"Lily's passion lies in making a positive impact on people's lives, using creativity and expertise to help them grow and heal."*
 ---
-
-*"My passion lies in making a positive impact on people's lives, using creativity and expertise to help them grow and heal."*
-
-
-_yay_
 
 [back](./)
